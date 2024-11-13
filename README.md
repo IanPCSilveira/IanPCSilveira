@@ -15,4 +15,4 @@ Hello.
 * Adapting myself to a new and exciting environment
 
 -> Where to find me?
-[Linkedin](br.linkedin.com/in/ianpablocristosilveira)
+[Linkedin](https://www.linkedin.com/in/ianpablocristosilveira/)
