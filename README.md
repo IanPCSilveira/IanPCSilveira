@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello.
 
-<!--
-**IanPCSilveira/IanPCSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-> About me:
 
-Here are some ideas to get you started:
+* I am currently an intern at **Bússola Social**, where I'm diving into new challenges and learning new skills everyday.
+* Born in 2005
+* Interests: Programming, chess and exploring how things work under the hood
+* Goals: To learn and deepen my understanding of new technologies and to become a more versatile programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> Currently learning:
+
+* PHP, Shell script
+* Deepening my knowledge on Linux
+* Adapting myself to a new and exciting environment
+
+-> Where to find me?
+[Linkedin](br.linkedin.com/in/ianpablocristosilveira)
